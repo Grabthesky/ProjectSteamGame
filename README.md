@@ -6,6 +6,7 @@ Proyecto de prueba para testear el modo multijugador a traves de Steam.
 - Cambiado todo el projecto por el definitivo.
 - Menu principal con escena.
 - Escena de juego creada con lsita de jugadores.
+- FizzySteamworks 5.0.1
 ## Versión 0.4.0
 - Añadido mundo para poder jugar.
 ## Versión 0.3.0
