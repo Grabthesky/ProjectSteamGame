@@ -2,6 +2,10 @@
 Proyecto de prueba para testear el modo multijugador a traves de Steam.
 
 - [Versiones](https://github.com/Grabthesky/UnityMultiplayerTest/releases)
+## Versión 0.5.2
+- Solucionado problema por el cual al unirse al juego no cargaba la escena;
+- Solucionado problema de sincronizacion.
+- Solucionado problema por el cual no se veia a los otros jugadores.
 ## Versión 0.5.1
 - Se puede mover el jugador, saltar y rotar la camara;
 ## Versión 0.5.0
