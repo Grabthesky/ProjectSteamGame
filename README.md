@@ -3,12 +3,15 @@ Proyecto de prueba para testear el modo multijugador a traves de Steam.
 
 - [Versiones](https://github.com/Grabthesky/UnityMultiplayerTest/releases)
 
+## Versión 0.5.6
+- Nuevos Cubos para comprobar la sincronizacion.
+
+<!--
 ## Versión 0.5.5
 - Se puede sprintar pulsando la tecla [Shift].
 - Nuevos Cubos para comprobar la sincronizacion.
 - Añadido arbol de pruebas.
 
-<!--
 ## Versión 0.5.4
 - Se ha movido la lista de jugadores a un menu que se abre con la tecla [ESC].
 - Añadido plataformas para spawnear cubos para testear la sincronizacion de objetos.
