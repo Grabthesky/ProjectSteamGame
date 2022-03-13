@@ -3,11 +3,15 @@ Proyecto de prueba para testear el modo multijugador a traves de Steam.
 
 - [Versiones](https://github.com/Grabthesky/UnityMultiplayerTest/releases)
 
+## Update
+- Adapted spawner of cubes.
+- Added castle.
+
+<!--
 ## Versión 0.5.7
 - Spawner de cubos cambiado a NetworkBehaviour.
 - Funcion de spawn cambiada a Command.
 
-<!--
 ## Versión 0.5.6
 - Nuevos Cubos para comprobar la sincronizacion.
 
