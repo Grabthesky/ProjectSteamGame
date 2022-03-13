@@ -4,8 +4,7 @@ Proyecto de prueba para testear el modo multijugador a traves de Steam.
 - [Versiones](https://github.com/Grabthesky/UnityMultiplayerTest/releases)
 
 ## Update
-- Adapted spawner of cubes.
-- Added castle.
+- Fixed URP materials problems
 
 <!--
 ## Versión 0.5.7
